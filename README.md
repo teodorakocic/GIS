@@ -2,7 +2,7 @@
 
 First project: **OpenStreetMap - PostGIS - QGIS**
 
-Second project: **OGC Geospatial Web Services**
+Second project: **OGC Geospatial Web Services**:
 
 The installations you need to run this project are:
   - [Apache Tomcat](https://tomcat.apache.org/tomcat-9.0-doc/index.html)
