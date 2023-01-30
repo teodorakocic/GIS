@@ -4,6 +4,8 @@ First project: **OpenStreetMap - PostGIS - QGIS**
 
 Second project: **OGC Geospatial Web Services**:
 
+All layers that are displayed in the application are taken from **first project** and the views have only been expanded so that a greater number of attributes available in the database are read for corresponding objects, so that the display of the layers in the application is more complete
+
 The installations you need to run this project are:
   - [Apache Tomcat](https://tomcat.apache.org/tomcat-9.0-doc/index.html)
   - [Geoserver](https://geoserver.org/release/stable/)
