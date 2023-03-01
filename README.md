@@ -19,7 +19,7 @@ The steps to run the application are as follows:
   1. Run Apache Tomcat 
   2. Run Geoserver
   3. Connect PostGis database with Geoserver / or imort layers into Geoserver
-  4. From browser run the script *index.html*
+  4. From browser run the script ***index.html***
   
-Check out the [demo](assets/demo.mp4) which shows application's functionalities
+Check out the [demo](assets/webgis.mp4) which shows application's functionalities
 
